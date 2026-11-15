@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+phishshield.db
+node_modules/
+dist/
+.env
+*.log
